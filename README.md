@@ -2,7 +2,7 @@
 SEAwise WP 5, Task 5.4 - Effect of changes in habitat on productivity, species and habitats - SEAwise project
 
 
-The first R code (Irish Sea) allow to run the life cycle model used in WP54 about impact of nursery habitat size and quality at exploited fish population scale
+The first R code (Sole Irish Sea) allow to run the life cycle model used in WP54 about impact of nursery habitat size and quality at exploited fish population scale
 This code was used for several case study on the western waters and the North Sea
 It is here exemplified for the sole in th eIrish Sea
 
